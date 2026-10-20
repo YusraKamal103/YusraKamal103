@@ -1,6 +1,8 @@
-## Hi there 👋
-skillicons.dev
+Hi, I'm Yusra 👋
 
+Data Science @ FAST NUCES. Code, data, and curiosity.
+
+<br> <p align="left"> <img src="https://skillicons.dev/icons?i=c,py,pandas,numpy,mysql,git,github,vscode&theme=dark" alt="Tech stack" /> </p> <br> <p align="left"> <img src="https://streak-stats.demolab.com/?user=YusraKamal&theme=dark&hide_border=true&background=0a0a0a&ring=e8e8e8&fire=e8e8e8&currStreakLabel=e8e8e8&sideLabels=8a8a8a&currStreakNum=e8e8e8&sideNums=e8e8e8&dates=8a8a8a" alt="GitHub streak" /> </p>
 <!--
 **YusraKamal103/YusraKamal103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
